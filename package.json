@@ -37,7 +37,7 @@
     "debug": "2.2.0",
     "dot-access": "1.0.0",
     "lodash": "3.10.1",
-    "multiparty": "3.2.10",
+    "multiparty": "4.2.3",
     "semver": "4.3.6",
     "skipper-disk": "~0.5.6",
     "string_decoder": "0.10.31",
